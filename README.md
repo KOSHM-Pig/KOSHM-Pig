@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm [KOSHM]
 
 📚 **Electronic Information Engineering** student at *Northwestern Polytechnical University*  
 🚀 **FPGA & Embedded Systems** Enthusiast | 🌐 **Digital Communication** Explorer  
@@ -39,18 +39,19 @@
 *Real-time signal processing implementation using GNU Radio Companion*
 
 ### 3. Electronic Music Toolkit (Max/MSP)
-[![Demo](https://img.shields.io/badge/Demo-Available-FF6F00)](https://acmetone.com/music)  
+[![Demo](https://img.shields.io/badge/Demo-Available-FF6F00)](https://acmetone.com)  
 *Custom DSP algorithms for real-time audio manipulation*
 
 ## 🎧 Creative Pursuits
-**Music Production Portfolio**: [Acmetone Studio Works](https://acmetone.com/music)  
+**Music Production Portfolio**: [Acmetone Studio Works](https://acmetone.com)  
 [![Ableton](https://img.shields.io/badge/Ableton_Live-Expert-000000?logo=ableton-live)](https://)  
 [![MaxMSP](https://img.shields.io/badge/Max/MSP-Intermediate-525252?logo=max)](https://)
 
 ## 📫 Let's Connect
-[![Email](https://img.shields.io/badge/Contact_Me-专业合作-blue?logo=gmail)](mailto:your.email@example.com)  
-[![LinkedIn](https://img.shields.io/badge/Professional_Profile-0077B5?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![SoundCloud](https://img.shields.io/badge/Electronic_Music-FF3300?logo=soundcloud)](https://soundcloud.com/yourprofile)
+[![Email](https://img.shields.io/badge/Contact_Me-专业合作-blue?logo=gmail)](mailto:KOSHM@acmetone.com)  
+[![NetEase Cloud Music](https://img.shields.io/badge/网易云音乐-E60026?logo=netease-cloud-music&logoColor=white)](https://music.163.com/#/artist?id=34565193)  
+[![QQ Music](https://img.shields.io/badge/QQ音乐-32C6FF?logo=tencent-qq&logoColor=white)](https://y.qq.com/n/ryqq/singer/002HBzUe2zL3AZ)
+
 
 ## 📊 Development Focus
 ```text
